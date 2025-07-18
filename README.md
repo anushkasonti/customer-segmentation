@@ -1,4 +1,5 @@
 **CUSTOMER SPENDING CATEGORIZATION USING NAIVE BAYES**
+(Machine Learning)
 
 **Project Overview:**
 - This project analyzes a retail sales dataset to categorize customers into Low, Medium, and High spenders using the Naive Bayes classification algorithm. 
