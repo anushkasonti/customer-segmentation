@@ -1,9 +1,9 @@
 **CUSTOMER SPENDING CATEGORIZATION USING NAIVE BAYES**
 
-**Project Overview**
-This project analyzes a retail sales dataset to categorize customers into Low, Medium, and High spenders using the Naive Bayes classification algorithm. 
-The workflow includes data preprocessing, feature engineering, classification model training, and evaluation with a confusion matrix and performance metrics.
-This application helps retailers gain insights into customer purchasing behavior.
+**Project Overview:**
+- This project analyzes a retail sales dataset to categorize customers into Low, Medium, and High spenders using the Naive Bayes classification algorithm. 
+- The workflow includes data preprocessing, feature engineering, classification model training, and evaluation with a confusion matrix and performance metrics.
+- This application helps retailers gain insights into customer purchasing behavior.
 
 **Features:**
 - Load and clean retail transaction data
