@@ -17,10 +17,10 @@
 
 **Output:**
 - Accuracy of 0.97 indicates that 97% of predictions matched the actual spending categories.
-- The Confusion Matrix shows:
+- The Confusion Matrix indicates:
   - All 41 low spenders were correctly classified.
   - All 41 medium spenders were correctly classified.
   - Out of 38 high spenders, 34 were correctly classified, while 4 were misclassified as medium.
-- This suggests the model performs exceptionally well, with only minor misclassification between closely related spending groups.
+- This shows the model works accurately, with only minor misclassification between very similar groups of spending.
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
